@@ -1,0 +1,19 @@
+{
+  "name": "neonplay",
+  "version": "1.0.0",
+  "description": "YouTube playlist manager with search, favorites, and auto-play queue",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": ["youtube", "playlist", "video-player", "vite", "typescript"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3"
+  }
+}
